@@ -15,14 +15,14 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript,Angular, and c#, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://sabreenashraf22894.wixsite.com/super-hero to see some of the projects I've worked on.
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/sabreen-ashraf-baba74177/" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sabreen-ashraf-baba74177/" target="_blank"><img src="https://img.shields.io/badge/Sabreen%20Ashraf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-<a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -35,17 +35,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![SqlServer](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=SQL)&nbsp;
+![SqlServer](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![c#](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=c#)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=dotnet)
+![ADO.NET](https://img.shields.io/badge/-ADO.NET-05122A?style=flat&logo=dotnet)
+![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=dotnet)
 
 
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+
